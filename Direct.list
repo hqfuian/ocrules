@@ -253,6 +253,18 @@ DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
 
+# PT下载
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,52pojie.cn
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,hdarea.club
+
 # Sina
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,miaopai.com
